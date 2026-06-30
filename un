@@ -1,0 +1,12 @@
+# Ukiyo_Nivis 个人博客
+基于 Hexo 搭建的静态博客，GitHub Pages 免费托管
+
+## 博客地址
+https://Ukiyo_Nivis.github.io
+
+## 本地运行步骤
+1. 安装 Git + Node.js
+2. 克隆项目：`git clone https://github.com/Ukiyo_Nivis/Ukiyo_Nivis.github.io.git`
+3. 进入目录执行 `npm install`
+4. 本地预览：`hexo s`
+5. 部署上线：`hexo clean && hexo g && hexo d`
